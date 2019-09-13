@@ -9,3 +9,6 @@
 # 第三步 安装kubeadm
 参考：
 * https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/#installing-kubeadm-kubelet-and-kubectl
+# 第四步 安装etcd
+参考：
+* https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/setup-ha-etcd-with-kubeadm/
